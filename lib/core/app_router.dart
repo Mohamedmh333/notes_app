@@ -2,7 +2,6 @@ import 'package:go_router/go_router.dart';
 import 'package:notes_app/models/note_model.dart';
 import 'package:notes_app/views/edit_view.dart';
 import 'package:notes_app/views/notes_view.dart';
-import 'package:notes_app/views/search_delegate.dart';
 
 abstract class AppRouter {
   // static const knoteview='/noteView';
